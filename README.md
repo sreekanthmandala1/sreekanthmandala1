@@ -1,4 +1,3 @@
-[![MasterHead](https://chsakell.files.wordpress.com/2016/05/aspcorerc2.png)]
 <h1 align="center">Hi 👋, I'm Sreekanth Mandala</h1>
 <h3 align="center">A passionate frontend developer from India (Hyderabad)</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47jo4ynbmujkhvp1hs738c5vw9j8g7lh0innq1b1ka&ep=v1_gifs_search&rid=giphy.gif&ct=g">
@@ -7,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreekanthmandala1" alt="sreekanthmandala1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sreekanth1212" target="blank"><img src="https://img.shields.io/twitter/follow/sreekanth1212?logo=twitter&style=for-the-badge" alt="sreekanth1212" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sreekanth1212" target="blank">
 
 - 🔭 I’m currently working on [Money Planner](https://github.com/sreekanthmandala1/Money-Planner)
 
@@ -28,6 +27,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/18qoPS8hhG0IMaOfKjrJtAfQ6I17wIKix/view](https://drive.google.com/file/d/18qoPS8hhG0IMaOfKjrJtAfQ6I17wIKix/view)
 
 - ⚡ Fun fact **I think I am funny**
+
+-<p align="right"> <img src="https://img.shields.io/twitter/follow/sreekanth1212?logo=twitter&style=for-the-badge" alt="sreekanth1212" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
