@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sreekanth Mandala</h1>
 <h3 align="center">A passionate frontend developer from India (Hyderabad)</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47jo4ynbmujkhvp1hs738c5vw9j8g7lh0innq1b1ka&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
+<a><img src="https://img.shields.io/twitter/follow/sreekanth1212?logo=twitter&style=for-the-badge" alt="sreekanth1212" /></a> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreekanthmandala1&label=Profile%20views&color=0e75b6&style=flat" alt="sreekanthmandala1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreekanthmandala1" alt="sreekanthmandala1" /></a> </p>
@@ -28,7 +28,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
--<p align="right"> <img src="https://img.shields.io/twitter/follow/sreekanth1212?logo=twitter&style=for-the-badge" alt="sreekanth1212" /></a> </p>
+-<p align="right"> <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47jo4ynbmujkhvp1hs738c5vw9j8g7lh0innq1b1ka&ep=v1_gifs_search&rid=giphy.gif&ct=g"></p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
